@@ -1,0 +1,4 @@
+# Archivos locales generados por wifi_lab.py (contienen MACs de tu red y tu calibración)
+dispositivos.txt
+calibracion.json
+__pycache__/
